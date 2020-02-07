@@ -1,0 +1,4 @@
+scrapy
+scrapy-user-agents
+Pillow
+psycopg2-binary
